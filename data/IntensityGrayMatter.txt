@@ -1,0 +1,2 @@
+ 	Area	Mean	Min	Max
+1	86	71.488	61	86
